@@ -56,13 +56,13 @@ Instagram Unfollower Tracker memungkinkan kamu menganalisis dan melacak siapa sa
 ## 📝 Contoh Output
 
 === Ringkasan Instagram Unfollower ===
-Total Followers: 504
-Total Following: 600
-Akun yang tidak mengikuti balik: 96
+Total Followers: 504.
+Total Following: 600.
+Akun yang tidak mengikuti balik: 96.
 
 Daftar Akun yang Tidak Mengikuti Balik:
-username1
-username2
+username1.
+username2.
 ...
 Riwayat unfollowers disimpan di unfollower_history.json
 
